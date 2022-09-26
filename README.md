@@ -1,4 +1,4 @@
-# Birthday Palindrome
+# Birthday Palindrome🎂
 This site asks the user their birth date and tells them that there birth date is palindrome or not.
 
 If birth date is palindrome, it tells you that your birth date is palindrome.
