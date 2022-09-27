@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+:root {
+    --primary-color: orange;
+    --light-orange: #fb923c;
+    --off-white: #fed7aa;
+}
+
+h1 {
+    background-color: var(--primary-color);
+    border-radius: 1rem 2rem;
+    padding: 1rem;
+}
+
+body {
+    text-align: center;
+    background-color: var(--off-white);
+}
+
+label {
+    display: inline-block;
+    padding: 0rem 1rem;
+}
+
+input {
+    padding: 0rem 0.5rem;
+    border-radius: 0.5rem;
+    border-color: coral;
+    cursor: pointer;
+}
+
+div {
+    background-color: coral;
+    padding-bottom: 1rem;
+    border-radius: 2rem 1rem;
+}
+
+button {
+    display: block;
+    margin: auto;
+    padding: 0.5rem 0.5rem;
+    border-radius: 0.5rem;
+    border-color: coral;
+    color: coral;
+}
