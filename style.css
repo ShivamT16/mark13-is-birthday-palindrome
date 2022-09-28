@@ -46,3 +46,7 @@ button {
     border-color: coral;
     color: coral;
 }
+
+#output {
+    padding-top: 1rem;
+}
